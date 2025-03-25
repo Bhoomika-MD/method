@@ -15,6 +15,7 @@ public class Jail {
     {
         this.name=name;
     }
+
     public String getLocation()
     {
         return this.location;
