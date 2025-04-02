@@ -21,3 +21,5 @@ package com.xworkz.inheritance.internal.vehicle;
             System.out.println("Vehicle honking");
         }
 }
+
+

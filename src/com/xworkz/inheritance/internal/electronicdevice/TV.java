@@ -10,3 +10,4 @@ package com.xworkz.inheritance.internal.electronicdevice;
             System.out.println("TV changing channel");
         }
 }
+

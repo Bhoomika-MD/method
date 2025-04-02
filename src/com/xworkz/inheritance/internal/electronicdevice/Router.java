@@ -11,3 +11,4 @@ package com.xworkz.inheritance.internal.electronicdevice;
             System.out.println("Router broadcasting signal");
         }
 }
+

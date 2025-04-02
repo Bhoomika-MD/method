@@ -11,3 +11,4 @@ package com.xworkz.inheritance.internal.animal;
             System.out.println("Elephant trumpeting");
         }
 }
+

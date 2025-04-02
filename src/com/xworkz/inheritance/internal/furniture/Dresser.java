@@ -11,3 +11,5 @@ package com.xworkz.inheritance.internal.furniture;
             System.out.println("Dresser organizing clothes");
         }
 }
+
+

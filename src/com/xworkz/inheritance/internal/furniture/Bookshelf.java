@@ -11,3 +11,4 @@ package com.xworkz.inheritance.internal.furniture;
             System.out.println("Bookshelf storing books");
         }
 }
+

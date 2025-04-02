@@ -10,3 +10,4 @@ package com.xworkz.inheritance.internal.vehicle;
             System.out.println("Truck loading cargo");
         }
 }
+
