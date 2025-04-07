@@ -10,4 +10,13 @@ public class Language {
     public void tough(){
         System.out.println("It is a low level language");
     }
+    public void read(){
+        System.out.println("read language");
+    }
+    public void write(){
+        System.out.println("write language");
+    }
+    public void practise(){
+        System.out.println("practise language");
+    }
 }

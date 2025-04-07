@@ -10,4 +10,13 @@ public class Bike {
     public void style(){
         System.out.println("style of the bike");
     }
+    public void color(){
+        System.out.println("color of the bike");
+    }
+    public void seat(){
+        System.out.println("seat of the bike");
+    }
+    public void height(){
+        System.out.println("height of the bike");
+    }
 }

@@ -10,4 +10,13 @@ public class Masala {
     public void texture(){
         System.out.println("texture of the masala");
     }
+    public void powder(){
+        System.out.println("powder of the masala");
+    }
+    public void smell(){
+        System.out.println("smell of the masala");
+    }
+    public void quantity(){
+        System.out.println("quantity of the masala");
+    }
 }

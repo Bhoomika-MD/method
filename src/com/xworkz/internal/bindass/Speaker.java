@@ -10,4 +10,13 @@ public class Speaker {
     public void volume(){
         System.out.println("volume of the speaker");
     }
+    public void on(){
+        System.out.println(" on the speaker");
+    }
+    public void off(){
+        System.out.println(" off the speaker");
+    }
+    public void resume(){
+        System.out.println("resume the speaker");
+    }
 }

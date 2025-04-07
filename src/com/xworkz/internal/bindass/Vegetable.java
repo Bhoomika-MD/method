@@ -8,6 +8,15 @@ public class Vegetable {
         System.out.println("cutting vegetable");
     }
     public void buy(){
-        System.out.println("Buy new vegetable");
+        System.out.println("Buy  vegetable");
+    }
+    public void fresh(){
+        System.out.println("Fresh  vegetable");
+    }
+    public void sell(){
+        System.out.println("sell  vegetable");
+    }
+    public void pay(){
+        System.out.println("pay  vegetable");
     }
 }

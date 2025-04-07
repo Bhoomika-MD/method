@@ -8,6 +8,15 @@ public class Veg {
         System.out.println("eat veg food");
     }
     public void prepare(){
-        System.out.println("prapare veg foof");
+        System.out.println("prepare veg food");
+    }
+    public void pack(){
+        System.out.println("pack veg food");
+    }
+    public void waste(){
+        System.out.println("waste veg food");
+    }
+    public void preserve(){
+        System.out.println("preserve veg food");
     }
 }

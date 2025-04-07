@@ -10,4 +10,13 @@ public class ElectricDevice {
     public void shop(){
         System.out.println("shop of electric device");
     }
+    public void open(){
+        System.out.println("shop open of electric device");
+    }
+    public void close(){
+        System.out.println("shop close of electric device");
+    }
+    public void reopen(){
+        System.out.println("shop  reopen of electric device");
+    }
 }

@@ -10,4 +10,13 @@ public class Chocolate {
     public void brand(){
         System.out.println("brand of the chocolate");
     }
+    public void size(){
+        System.out.println("size of the chocolate");
+    }
+    public void quality(){
+        System.out.println("quality of the chocolate");
+    }
+    public void quantity(){
+        System.out.println("quantity of the chocolate");
+    }
 }

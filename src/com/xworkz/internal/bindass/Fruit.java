@@ -10,4 +10,13 @@ public class Fruit {
     public void sour(){
         System.out.println("fruit is sour");
     }
+    public void smell(){
+        System.out.println("fruit is smell");
+    }
+    public void salt(){
+        System.out.println("fruit is salt");
+    }
+    public void juicy(){
+        System.out.println("fruit is juicy");
+    }
 }

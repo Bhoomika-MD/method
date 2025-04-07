@@ -10,4 +10,13 @@ public class Village {
     public void members(){
         System.out.println("number of members in village");
     }
+    public void gender(){
+        System.out.println("  number of gender in village");
+    }
+    public void population(){
+        System.out.println("number of population in village");
+    }
+    public void children(){
+        System.out.println("number of children in village");
+    }
 }

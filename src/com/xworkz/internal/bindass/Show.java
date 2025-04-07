@@ -10,4 +10,13 @@ public class Show {
     public void channel(){
         System.out.println("channel number of the show");
     }
+    public void volume(){
+        System.out.println("volume of the show");
+    }
+    public void quality(){
+        System.out.println("quality of the show");
+    }
+    public void clarity(){
+        System.out.println("clarity of the show");
+    }
 }

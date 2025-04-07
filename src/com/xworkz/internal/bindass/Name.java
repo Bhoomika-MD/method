@@ -10,4 +10,13 @@ public class Name {
     public void font(){
         System.out.println("Font of the name");
     }
+    public void numberOfLetters(){
+        System.out.println("number of letters of the name");
+    }
+    public void gender(){
+        System.out.println("gender of the name");
+    }
+    public void meaning(){
+        System.out.println("meaning of the name");
+    }
 }

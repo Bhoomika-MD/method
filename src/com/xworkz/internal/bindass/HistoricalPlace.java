@@ -10,4 +10,13 @@ public class HistoricalPlace {
     public void destroy(){
         System.out.println("destroy a place");
     }
+    public void open(){
+        System.out.println("open a place");
+    }
+    public void close(){
+        System.out.println("close a place");
+    }
+    public void onWork(){
+        System.out.println("on work a place");
+    }
 }

@@ -10,4 +10,13 @@ public class Weather {
     public void hot(){
         System.out.println("the weather is hot");
     }
+    public void medium(){
+        System.out.println("the weather is medium");
+    }
+    public void humid(){
+        System.out.println("the weather is humid");
+    }
+    public void dusty(){
+        System.out.println("the weather is dusty");
+    }
 }

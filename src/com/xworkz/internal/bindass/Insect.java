@@ -10,4 +10,13 @@ public class Insect {
     public void died(){
         System.out.println("insect died");
     }
+    public void alive(){
+        System.out.println("insect alive");
+    }
+    public void fly(){
+        System.out.println("insect fly");
+    }
+    public void sat(){
+        System.out.println("insect sat");
+    }
 }

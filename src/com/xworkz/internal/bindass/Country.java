@@ -10,4 +10,13 @@ public class Country {
     public void capital(){
         System.out.println("capital of the country");
     }
+    public void states(){
+        System.out.println("states in the country");
+    }
+    public void tradition(){
+        System.out.println("tradition of the country");
+    }
+    public void weather(){
+        System.out.println("weather of the country");
+    }
 }

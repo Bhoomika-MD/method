@@ -10,4 +10,13 @@ public class God {
     public void home(){
         System.out.println("There is a small statue of god in home");
     }
+    public void wish(){
+        System.out.println("wish for god");
+    }
+    public void pray(){
+        System.out.println("pray to god");
+    }
+    public void wash(){
+        System.out.println("wash the god");
+    }
 }

@@ -10,4 +10,13 @@ public class Student {
  public void gender(){
      System.out.println("Gender of the student");
  }
+ public void name(){
+     System.out.println("name of the student");
+ }
+ public void section(){
+     System.out.println("section of the student");
+ }
+ public void group(){
+     System.out.println("Group of the student");
+    }
 }

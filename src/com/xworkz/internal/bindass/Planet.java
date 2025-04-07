@@ -10,4 +10,13 @@ public class Planet {
     public void size(){
         System.out.println("size of the planet");
     }
+    public void water(){
+        System.out.println("water in the planet");
+    }
+    public void air(){
+        System.out.println("air in the planet");
+    }
+    public void source(){
+        System.out.println("source of the planet");
+    }
 }

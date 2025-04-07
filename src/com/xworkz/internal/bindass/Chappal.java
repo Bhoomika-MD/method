@@ -10,4 +10,13 @@ public class Chappal {
     public void brand(){
         System.out.println("brand of the chappal");
     }
+    public void shop(){
+        System.out.println("shop of the chappal");
+    }
+    public void design(){
+        System.out.println("design of the chappal");
+    }
+    public void pattern(){
+        System.out.println("pattern of the chappal");
+    }
 }

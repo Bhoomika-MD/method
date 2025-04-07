@@ -10,4 +10,13 @@ public class Hospital {
     public void close(){
         System.out.println("hospital is closed");
     }
+    public void patient(){
+        System.out.println("hospital has patient");
+    }
+    public void near(){
+        System.out.println("hospital is near");
+    }
+    public void far(){
+        System.out.println("hospital is far");
+    }
 }

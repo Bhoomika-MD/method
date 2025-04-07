@@ -10,4 +10,13 @@ public class Shop {
     public void close(){
         System.out.println("shop is closed");
     }
+    public void buy(){
+        System.out.println("shop is buying new material");
+    }
+    public void returned(){
+        System.out.println("shop is retuning loss");
+    }
+    public void sell(){
+        System.out.println("shop is for sell");
+    }
 }

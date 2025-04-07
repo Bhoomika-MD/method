@@ -10,4 +10,13 @@ public class Gold {
     public void sell(){
         System.out.println("sell the gold");
     }
+    public void wear(){
+        System.out.println("wear the gold");
+    }
+    public void give(){
+        System.out.println("give the gold");
+    }
+    public void take(){
+        System.out.println("take the gold");
+    }
 }

@@ -10,4 +10,13 @@ public class Kid {
     public void gender(){
         System.out.println("gender of the kid");
     }
+    public void weight(){
+        System.out.println("weight of the kid");
+    }
+    public void height(){
+        System.out.println("height of the kid");
+    }
+    public void school(){
+        System.out.println("school of the kid");
+    }
 }

@@ -10,4 +10,13 @@ public class Brand {
     public void color(){
         System.out.println("color of the pant brand");
     }
+    public void pattern(){
+        System.out.println("pattern of the pant brand");
+    }
+    public void style(){
+        System.out.println("style of the pant brand");
+    }
+    public void cost(){
+        System.out.println("cost of the pant brand");
+    }
 }

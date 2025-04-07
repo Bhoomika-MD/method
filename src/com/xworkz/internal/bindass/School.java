@@ -10,7 +10,15 @@ public class School {
     public void close(){
         System.out.println("school is closed");
     }
-
+    public void admit(){
+        System.out.println("school admit");
+    }
+    public void join(){
+        System.out.println("school join");
+    }
+    public void tc(){
+        System.out.println("school tc");
+    }
 
 
 }

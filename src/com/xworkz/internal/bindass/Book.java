@@ -10,4 +10,13 @@ public class Book {
     public void buy(){
         System.out.println("buy new book");
     }
+    public void write(){
+        System.out.println("write new book");
+    }
+    public void give(){
+        System.out.println("give new book");
+    }
+    public void take(){
+        System.out.println("take new book");
+    }
 }

@@ -10,4 +10,13 @@ public class SocialMedia {
     public void bad(){
         System.out.println("social media is bad to use");
     }
+    public void hack(){
+        System.out.println("social media hack");
+    }
+    public void account(){
+        System.out.println("social media account");
+    }
+    public void friend(){
+        System.out.println("social media friend");
+    }
 }

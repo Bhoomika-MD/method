@@ -10,4 +10,13 @@ public class Cloth {
     public void brand(){
         System.out.println("brand of the cloth");
     }
+    public void fold(){
+        System.out.println("fold  the cloth");
+    }
+    public void stitch(){
+        System.out.println("stitch of the cloth");
+    }
+    public void trend(){
+        System.out.println("trend of the cloth");
+    }
 }

@@ -10,4 +10,13 @@ public class Laptop {
     public void color(){
         System.out.println("Color of the Laptop is to be mentioned");
     }
+    public void feature(){
+        System.out.println("Feature of the Laptop is to be mentioned");
+    }
+    public void light(){
+        System.out.println("Light of the Laptop is to be mentioned");
+    }
+    public void modle(){
+        System.out.println("Modle of the Laptop is to be mentioned");
+    }
 }

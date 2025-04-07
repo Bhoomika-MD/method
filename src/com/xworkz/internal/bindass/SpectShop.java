@@ -10,4 +10,13 @@ public class SpectShop {
     public void area(){
         System.out.println("area of the shop");
     }
+    public void open(){
+        System.out.println("open the shop");
+    }
+    public void close(){
+        System.out.println("close the shop");
+    }
+    public void size(){
+        System.out.println("size of the shop");
+    }
 }

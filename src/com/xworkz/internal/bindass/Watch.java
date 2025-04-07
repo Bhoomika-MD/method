@@ -10,4 +10,13 @@ public class Watch {
     public void shell(){
         System.out.println("replace watch shell");
     }
+    public void stop(){
+        System.out.println("stop watch shell");
+    }
+    public void start(){
+        System.out.println("start watch shell");
+    }
+    public void nill(){
+        System.out.println("watch is nill");
+    }
 }

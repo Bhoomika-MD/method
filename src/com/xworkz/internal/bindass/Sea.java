@@ -10,4 +10,13 @@ public class Sea {
     public void visit(){
         System.out.println("visit sea one time");
     }
+    public void play(){
+        System.out.println("visit sea play one time");
+    }
+    public void sit(){
+        System.out.println("visit sea sit one time");
+    }
+    public void run(){
+        System.out.println("visit sea run one time");
+    }
 }

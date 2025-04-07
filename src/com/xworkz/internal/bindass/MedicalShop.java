@@ -10,4 +10,13 @@ public class MedicalShop {
     public void soap(){
         System.out.println("buy soap from medical store");
     }
+    public void syrup(){
+        System.out.println("buy syrup from medical store");
+    }
+    public void bandage(){
+        System.out.println("buy bandage from medical store");
+    }
+    public void dettol(){
+        System.out.println("buy dettol from medical store");
+    }
 }

@@ -10,4 +10,13 @@ public class Pen {
     public void newPen(){
         System.out.println("Buy a new pen");
     }
+    public void oldPen(){
+        System.out.println("Buy a old pen");
+    }
+    public void emptyPen(){
+        System.out.println("Buy a empty pen");
+    }
+    public void halfPen(){
+        System.out.println("Buy a half pen");
+    }
 }

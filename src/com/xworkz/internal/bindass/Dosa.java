@@ -10,4 +10,13 @@ public class Dosa {
     public void crispy(){
         System.out.println("dosa is crispy");
     }
+    public void shape(){
+        System.out.println("dosa shape");
+    }
+    public void quality(){
+        System.out.println("dosa quality");
+    }
+    public void cost(){
+        System.out.println("dosa cost");
+    }
 }

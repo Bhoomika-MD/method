@@ -10,4 +10,13 @@ public class Liquid {
     public void pour(){
         System.out.println("pour the liquid");
     }
+    public void waste(){
+        System.out.println("waste the liquid");
+    }
+    public void purify(){
+        System.out.println("purify the liquid");
+    }
+    public void boil(){
+        System.out.println("boil the liquid");
+    }
 }

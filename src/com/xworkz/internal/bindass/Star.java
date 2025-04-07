@@ -10,4 +10,13 @@ public class Star {
     public void shape(){
         System.out.println("shape of the star");
     }
+    public void temp(){
+        System.out.println("temp of the star");
+    }
+    public void size(){
+        System.out.println("size of the star");
+    }
+    public void distance(){
+        System.out.println("distance of the star");
+    }
 }

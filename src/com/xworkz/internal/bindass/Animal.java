@@ -10,4 +10,13 @@ public class Animal {
     public void forest(){
         System.out.println("found animal coming from forest");
     }
+    public void tree(){
+        System.out.println("found tree in forest");
+    }
+    public void dense(){
+        System.out.println("found dense forest");
+    }
+    public void pond(){
+        System.out.println("found pond in forest");
+    }
 }

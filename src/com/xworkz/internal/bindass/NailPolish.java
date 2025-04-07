@@ -10,4 +10,13 @@ public class NailPolish {
     public void brand(){
         System.out.println("brand of the nailPolish");
     }
+    public void quality(){
+        System.out.println("quality of the nailPolish");
+    }
+    public void size(){
+        System.out.println("size of the nailPolish");
+    }
+    public void texture(){
+        System.out.println("texture of the nailPolish");
+    }
 }
