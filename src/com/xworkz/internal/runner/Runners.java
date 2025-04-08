@@ -2306,16 +2306,155 @@ public class Runners {
         System.out.println("--------------------------------------------");
         System.out.println("--------------------------------------------");
 
+        Doms doms=new Doms();
+        doms.writing(pen);
 
+        Idly idly=new Idly();
+        idly.preparing(dish);
 
+        Shiva shiva=new Shiva();
+        shiva.praying(god);
 
+        Apple apple=new Apple();
+        apple.goodHealth(fruit);
 
+        SanjitHegde sanjitHegde=new SanjitHegde();
+        sanjitHegde.saregamapa(singer);
 
+        EarRing earRing=new EarRing();
+        earRing.wash(gold);
 
+        Tiger tiger=new Tiger();
+        tiger.king(animal);
 
+        Mars mars=new Mars();
+        mars.fourth(planet);
 
+        Crocs crocs=new Crocs();
+        crocs.newShop(chappal);
 
+        SleepWell sleepWell=new SleepWell();
+        sleepWell.inHome(bed);
 
+        Nikon nikon=new Nikon();
+        nikon.oldModel(camera);
+
+        Canara canara=new Canara();
+        canara.newAccountHolding(bank);
+
+        Ibaco ibaco=new Ibaco();
+        ibaco.newBrand(iceCream);
+
+        Ecoplay ecoplay=new Ecoplay();
+        ecoplay.find(speaker);
+
+        Manipal manipal=new Manipal();
+        manipal.admitting(hospital);
+
+        Sahana sahana=new Sahana();
+        sahana.sri(pg);
+
+        Ducati ducati=new Ducati();
+        ducati.fav(bike);
+
+        GoodDay goodDay=new GoodDay();
+        goodDay.onePack(biscuite);
+
+        Pizza pizza=new Pizza();
+        pizza.triangle(junk);
+
+        Panteloons panteloons=new Panteloons();
+        panteloons.close(brand);
+
+        Scissor scissor=new Scissor();
+        scissor.two(tool);
+
+        Rainy rainy=new Rainy();
+        rainy.raining(weather);
+
+        Tomato tomato=new Tomato();
+        tomato.cutting(vegetable);
+
+        Dryer dryer=new Dryer();
+        dryer.dries(device);
+
+        MrBeam mrBeam=new MrBeam();
+        mrBeam.beam(cartoon);
+
+        PubG pubG=new PubG();
+        pubG.playing(game);
+
+        Mahabharatha mahabharatha=new Mahabharatha();
+        mahabharatha.seen(book);
+
+        Dog dog=new Dog();
+        dog.small(pet);
+
+        Bangalore bangalore=new Bangalore();
+        bangalore.traffic(city);
+
+        China china=new China();
+        china.virus(country);
+
+        Rose rose=new Rose();
+        rose.thrown(flower);
+
+        Benz benz=new Benz();
+        benz.costly(car);
+
+        Kerala kerala=new Kerala();
+        kerala.capitals(state);
+
+        ShotPut shotPut=new ShotPut();
+        shotPut.heavy(sphere);
+
+        Perk perk=new Perk();
+        perk.peace(chocolate);
+
+        Apollo apollo=new Apollo();
+        apollo.newShop(medicalShop);
+
+        Pegion pegion=new Pegion();
+        pegion.flying(bird);
+
+        TajMahal tajMahal=new TajMahal();
+        tajMahal.palace(historicalPlace);
+
+        Circle circle=new Circle();
+        circle.drawing(shape);
+
+        Pulav pulav=new Pulav();
+        pulav.vegetables(veg);
+
+        Robotics robotics=new Robotics();
+        robotics.machine(branch);
+
+        Juice juice=new Juice();
+        juice.mix(liquid);
+
+        Tom tom=new Tom();
+        tom.baby(kid);
+
+        Max max=new Max();
+        max.trial(cloth);
+
+        Html html=new Html();
+        html.coding(language);
+
+        Naganur naganur=new Naganur();
+        naganur.living(village);
+
+        Iphone iphone=new Iphone();
+        iphone.sending(phone);
+
+        Bapuji bapuji=new Bapuji();
+        bapuji.opening(school);
+
+        Reliance reliance=new Reliance();
+        reliance.mart(shop);
+
+        Kavi kavi = new Kavi();
+        kavi.writing(person);
 
 
     }
