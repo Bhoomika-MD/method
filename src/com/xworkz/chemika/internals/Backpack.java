@@ -1,6 +1,6 @@
 package com.xworkz.chemika.internals;
 
-public class Backpack {
+public class  Backpack {
 
         private int capacityLiters;
         private boolean waterproof;

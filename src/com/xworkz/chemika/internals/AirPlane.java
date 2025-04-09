@@ -1,6 +1,6 @@
 package com.xworkz.chemika.internals;
 
-public class AirPlane {
+public class  AirPlane {
    private String airline;
    private int capacity;
    private String model;

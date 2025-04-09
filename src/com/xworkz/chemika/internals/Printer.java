@@ -1,6 +1,6 @@
 package com.xworkz.chemika.internals;
 
-public class Printer {
+public class  Printer {
    private String brand;
    private boolean isColor;
    private int ppm;
