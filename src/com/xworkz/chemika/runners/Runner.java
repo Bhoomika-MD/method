@@ -24,6 +24,7 @@ public class Runner {
         BankAccount bankAccount=new BankAccount("bhoomi@123",3456,"Bhoomika");
         System.out.println("BankAccount:"+bankAccount);
 
+
         Movie movie=new Movie("Gaalipata","recent",9);
         System.out.println("Movie:"+movie);
 
