@@ -16,5 +16,9 @@ public class Calculator {
         public String toString() {
             return "Scientific: " + scientific + ", Brand: " + brand + ", Battery Life: " + batteryLifeHours + "h";
         }
+    @Override
+    public int hashCode() {
+        return 101;
+    }
     }
 

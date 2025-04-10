@@ -16,5 +16,9 @@ public class GameConsole {
         public String toString() {
             return "Name: " + name + ", Storage: " + storage + "GB, VR Support: " + supportsVR;
         }
+    @Override
+    public int hashCode() {
+        return 128;
+    }
     }
 

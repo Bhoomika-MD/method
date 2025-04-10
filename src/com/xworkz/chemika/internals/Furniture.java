@@ -14,4 +14,8 @@ public class Furniture {
     public String toString(){
         return "type :"+type+"material :"+material+"price :"+price;
     }
+    @Override
+    public int hashCode() {
+        return 126;
+    }
 }

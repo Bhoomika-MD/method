@@ -16,5 +16,9 @@ public class LightBulb {
         public String toString() {
             return "Wattage: " + wattage + "W, Temp: " + colorTemperature + ", Smart: " + smart;
         }
+    @Override
+    public int hashCode() {
+        return 136;
+    }
     }
 

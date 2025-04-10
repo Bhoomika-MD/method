@@ -14,4 +14,8 @@ public class Music {
     public String toString(){
         return "artist :"+artist+"genre :"+genre+"tracks :"+tracks;
     }
+    @Override
+    public int hashCode() {
+        return 146;
+    }
 }

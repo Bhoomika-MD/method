@@ -16,5 +16,9 @@ public class Tripod {
         public String toString() {
             return "Max Height: " + maxHeight + "cm, Quick Release: " + quickRelease + ", Material: " + material;
         }
+    @Override
+    public int hashCode() {
+        return 180;
+    }
     }
 

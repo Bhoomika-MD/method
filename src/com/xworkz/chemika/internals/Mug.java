@@ -16,5 +16,9 @@ public class Mug {
         public String toString() {
             return "Volume: " + volumeML + "ml, Insulated: " + insulated + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 145;
+    }
     }
 

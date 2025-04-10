@@ -14,4 +14,8 @@ public class Rocket {
     public String toString(){
         return "name :"+name+"height :"+height+"engines :"+engines;
     }
+    @Override
+    public int hashCode() {
+        return 159;
+    }
 }

@@ -14,4 +14,8 @@ public class Vehicle {
     public String toString(){
         return "type :"+type+"fuelType :"+fuelType+"wheels :"+wheels;
     }
+    @Override
+    public int hashCode() {
+        return 185;
+    }
 }

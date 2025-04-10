@@ -12,6 +12,11 @@ public class Dog {
     }
     @Override
     public String toString(){
+
         return "breed :"+breed+"age :"+age+"weight :"+weight;
+    }
+    @Override
+    public int hashCode() {
+        return 115;
     }
 }

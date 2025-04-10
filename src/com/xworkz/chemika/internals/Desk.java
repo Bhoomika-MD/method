@@ -15,5 +15,9 @@ public class Desk {
         public String toString() {
             return "Material: " + material + ", Drawers: " + drawers + ", Keyboard Tray: " + hasKeyboardTray;
         }
+    @Override
+    public int hashCode() {
+        return 113;
+    }
     }
 

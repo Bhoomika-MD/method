@@ -11,17 +11,108 @@
       <change beforePath="$PROJECT_DIR$/../inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice" beforeDir="false" afterPath="$PROJECT_DIR$/../practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reference" beforeDir="false" afterPath="$PROJECT_DIR$/../reference" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/AirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/AirConditioner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/AirPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/AirPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Backpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Backpack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Blender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Blender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/CameraBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/CameraBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Charger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Charger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Cloth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Cloth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/CoffeeMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Desk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Dishwasher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Dishwasher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/EReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/EReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricGrill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricGrill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricKettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricKettle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricScooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ElectricScooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ExternalHardDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/ExternalHardDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/FitnessTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/FitnessTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/GameConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/GameConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Glasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Glasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Headphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Headphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Heater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Heater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Iron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Iron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/LightBulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/LightBulb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Luggage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Luggage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Microphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Microphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Microwave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Microwave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Mug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Mug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Newspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Newspaper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Oven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Podcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/PowerBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/PowerBank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Projector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Projector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Refrigerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Refrigerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Restaurent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Restaurent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Rocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Shoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/SmartTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/SmartTV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Smartwatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Smartwatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Speaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Stapler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Stapler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tablet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Temple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Temple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Toaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Toaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tripod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Tripod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/USBDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/USBDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/VRHeadset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/VRHeadset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/VacuumCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/VacuumCleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/WashingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/WashingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Watch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/WaterPurifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/WaterPurifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Webcam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/internals/Webcam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/chemika/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xworkz/chemika/runners/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +128,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,7 +143,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "sub",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
@@ -87,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="&quot;wed work&quot;" />
     <MESSAGE value="wed work" />
     <option name="LAST_COMMIT_MESSAGE" value="wed work" />
   </component>

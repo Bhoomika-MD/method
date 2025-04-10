@@ -16,5 +16,9 @@ public class Toaster {
         public String toString() {
             return "Slots: " + slots + ", Color: " + color + ", Bagel Mode: " + bagelMode;
         }
+    @Override
+    public int hashCode() {
+        return 177;
+    }
     }
 

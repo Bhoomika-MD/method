@@ -14,4 +14,8 @@ public class Podcast {
     public String toString(){
         return "host :"+host+"topic :"+topic+"episodes :"+episodes;
     }
+    @Override
+    public int hashCode() {
+        return 151;
+    }
 }

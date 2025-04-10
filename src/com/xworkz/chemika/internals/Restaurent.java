@@ -14,4 +14,8 @@ public class Restaurent {
     public String toString(){
         return "name :"+name+"cuisine :"+cuisine+"rating :"+rating;
     }
+    @Override
+    public int hashCode() {
+        return 157;
+    }
 }

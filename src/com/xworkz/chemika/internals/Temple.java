@@ -12,6 +12,11 @@ public class Temple {
     }
     @Override
     public String toString(){
+
         return "Distance :"+distance+"Name :"+name+"Gender :"+gender;
+    }
+    @Override
+    public int hashCode() {
+        return 175;
     }
 }

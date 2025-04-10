@@ -12,6 +12,11 @@ public class  Printer {
     }
     @Override
     public String toString(){
+
         return "brand :"+brand+"isColor :"+isColor+"ppm :"+ppm;
+    }
+    @Override
+    public int hashCode() {
+        return 153;
     }
 }

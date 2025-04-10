@@ -14,4 +14,8 @@ public class Newspaper {
     public String toString(){
         return "name :"+name+"language :"+language+"price :"+price;
     }
+    @Override
+    public int hashCode() {
+        return 147;
+    }
 }

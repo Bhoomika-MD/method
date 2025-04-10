@@ -16,5 +16,9 @@ public class Stapler {
         public String toString() {
             return "Capacity: " + capacityPages + " pages, Color: " + color + ", Manual: " + manual;
         }
+    @Override
+    public int hashCode() {
+        return 170;
+    }
     }
 

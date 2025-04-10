@@ -12,6 +12,11 @@ public class Computer {
     }
     @Override
     public String toString(){
+
         return "brand :"+brand+"processor :"+processor+"ram :"+ram;
+    }
+    @Override
+    public int hashCode() {
+        return 111;
     }
 }

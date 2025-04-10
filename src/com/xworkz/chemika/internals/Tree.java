@@ -12,7 +12,12 @@ public class Tree {
     }
     @Override
     public String toString(){
+
         return "species :"+species+"age :"+age+"height :"+height;
+    }
+    @Override
+    public int hashCode() {
+        return 179;
     }
 
 }

@@ -16,5 +16,9 @@ public class Shoe {
         public String toString() {
             return "Brand: " + brand + ", Size: " + size + ", Waterproof: " + waterproof;
         }
+    @Override
+    public int hashCode() {
+        return 164;
+    }
     }
 

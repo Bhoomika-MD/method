@@ -16,5 +16,9 @@ public class WaterPurifier {
         public String toString() {
             return "Brand: " + brand + ", Capacity: " + capacityLiters + "L, UV Filter: " + uvFilter;
         }
+    @Override
+    public int hashCode() {
+        return 189;
+    }
     }
 

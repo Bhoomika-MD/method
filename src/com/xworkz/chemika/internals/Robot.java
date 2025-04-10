@@ -14,4 +14,8 @@ public class Robot {
     public String toString(){
         return "name :"+name+"function :"+function+"isAutonomous :"+isAutonomous;
     }
+    @Override
+    public int hashCode() {
+        return 158;
+    }
 }

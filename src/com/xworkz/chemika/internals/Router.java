@@ -16,5 +16,9 @@ public class Router {
         public String toString() {
             return "Model: " + model + ", Max Speed: " + maxSpeed + " Mbps, Dual Band: " + dualBand;
         }
+    @Override
+    public int hashCode() {
+        return 160;
+    }
     }
 

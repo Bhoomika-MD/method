@@ -12,6 +12,11 @@ public class Course {
     }
     @Override
     public String toString(){
+
         return "title :"+title+"code :"+code+"credits :"+credits;
+    }
+    @Override
+    public int hashCode() {
+        return 112;
     }
 }

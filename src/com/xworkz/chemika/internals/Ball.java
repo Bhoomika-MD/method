@@ -14,4 +14,8 @@ public class Ball {
     public String toString(){
         return "color :"+color+"material :"+material+"diameter :"+diameter;
     }
+    @Override
+    public int hashCode() {
+        return 95;
+    }
 }

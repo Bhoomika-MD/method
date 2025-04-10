@@ -16,5 +16,9 @@ public class ElectricScooter {
         public String toString() {
             return "Top Speed: " + topSpeed + "km/h, Range: " + rangeKm + "km, Foldable: " + foldable;
         }
+    @Override
+    public int hashCode() {
+        return 119;
+    }
     }
 

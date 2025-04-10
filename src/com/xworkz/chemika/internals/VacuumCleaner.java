@@ -16,5 +16,9 @@ public class VacuumCleaner {
         public String toString() {
             return "Type: " + type + ", Power: " + powerWatts + "W, Bagless: " + bagless;
         }
+    @Override
+    public int hashCode() {
+        return 184;
+    }
     }
 

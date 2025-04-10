@@ -16,5 +16,9 @@ public class ExternalHardDrive {
         public String toString() {
             return "Capacity: " + capacityTB + "TB, Connection: " + connectionType + ", SSD: " + ssd;
         }
+    @Override
+    public int hashCode() {
+        return 122;
+    }
     }
 

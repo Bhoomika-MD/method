@@ -14,4 +14,8 @@ public class Planet {
     public String toString(){
         return "name :"+name+"mass :"+mass+"moons :"+moons;
     }
+    @Override
+    public int hashCode() {
+        return 150;
+    }
 }

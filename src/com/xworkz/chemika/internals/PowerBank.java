@@ -16,5 +16,9 @@ public class PowerBank {
         public String toString() {
             return "Capacity: " + capacitymAh + "mAh, Ports: " + outputPorts + ", Fast Charging: " + fastCharging;
         }
+    @Override
+    public int hashCode() {
+        return 152;
+    }
     }
 

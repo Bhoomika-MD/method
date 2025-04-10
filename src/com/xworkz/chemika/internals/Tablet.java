@@ -15,5 +15,9 @@ public class Tablet {
         public String toString() {
             return "Brand: " + brand + ", Screen Size: " + screenSize + "\", Battery Life: " + batteryLife + "h";
         }
+    @Override
+    public int hashCode() {
+        return 172;
+    }
     }
 

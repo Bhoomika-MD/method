@@ -16,5 +16,9 @@ public class Blender {
         public String toString() {
             return "Power: " + powerWatts + "W, Glass Jar: " + glassJar + ", Brand: " + brand;
         }
+    @Override
+    public int hashCode() {
+        return 98;
+    }
     }
 

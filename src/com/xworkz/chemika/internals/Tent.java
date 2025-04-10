@@ -16,5 +16,9 @@ public class Tent {
         public String toString() {
             return "Capacity: " + capacity + ", Waterproof: " + waterproof + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 176;
+    }
     }
 

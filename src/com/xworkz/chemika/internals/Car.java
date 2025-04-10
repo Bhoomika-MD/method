@@ -12,6 +12,11 @@ public class Car {
     }
     @Override
     public String toString(){
+
         return "Make :"+make+"Model :"+model+"Year :"+year;
+    }
+    @Override
+    public int hashCode() {
+        return 104;
     }
 }

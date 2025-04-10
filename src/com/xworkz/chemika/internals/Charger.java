@@ -16,5 +16,9 @@ public class Charger {
         public String toString() {
             return "Connector: " + connectorType + ", Wattage: " + wattage + "W, Fast Charging: " + fastCharging;
         }
+    @Override
+    public int hashCode() {
+        return 107;
+    }
     }
 

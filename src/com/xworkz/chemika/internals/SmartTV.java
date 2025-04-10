@@ -15,5 +15,9 @@ public class SmartTV {
         public String toString() {
             return "Brand: " + brand + ", Size: " + sizeInches + "\", HDR: " + hdr;
         }
+    @Override
+    public int hashCode() {
+        return 166;
+    }
     }
 

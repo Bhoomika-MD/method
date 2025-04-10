@@ -16,5 +16,9 @@ public class Oven {
         public String toString() {
             return "Type: " + type + ", Max Temp: " + temperatureMax + "°C, Digital: " + digitalControl;
         }
+    @Override
+    public int hashCode() {
+        return 148;
+    }
     }
 

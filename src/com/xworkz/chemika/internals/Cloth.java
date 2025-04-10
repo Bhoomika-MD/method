@@ -12,6 +12,11 @@ public class Cloth {
     }
     @Override
     public String toString(){
+
         return "type :"+type+"size :"+size+"price :"+price;
+    }
+    @Override
+    public int hashCode() {
+        return 109;
     }
 }

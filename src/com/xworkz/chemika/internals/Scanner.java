@@ -16,5 +16,9 @@ public class Scanner {
         public String toString() {
             return "Model: " + model + ", DPI: " + dpi + ", Flatbed: " + isFlatbed;
         }
+    @Override
+    public int hashCode() {
+        return 161;
+    }
     }
 

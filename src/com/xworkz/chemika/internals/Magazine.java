@@ -14,4 +14,8 @@ public class Magazine {
     public String toString(){
         return "title :"+title+"issueNumber :"+issueNumber+"publisher :"+publisher;
     }
+    @Override
+    public int hashCode() {
+        return 138;
+    }
 }

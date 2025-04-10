@@ -12,6 +12,11 @@ public class City {
     }
     @Override
     public String toString(){
+
         return "Name :"+name+"Population :"+population+"Area :"+area;
+    }
+    @Override
+    public int hashCode() {
+        return 108;
     }
 }

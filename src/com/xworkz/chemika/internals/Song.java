@@ -12,6 +12,11 @@ public class Song {
     }
     @Override
     public String toString(){
+
         return "title :"+title+"artist :"+artist+"duration :"+duration;
+    }
+    @Override
+    public int hashCode() {
+        return 168;
     }
 }

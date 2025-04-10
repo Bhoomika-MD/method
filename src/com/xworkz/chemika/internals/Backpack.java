@@ -16,5 +16,9 @@ public class  Backpack {
         public String toString() {
             return "Capacity: " + capacityLiters + "L, Waterproof: " + waterproof + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 94;
+    }
     }
 

@@ -16,5 +16,9 @@ public class Luggage {
         public String toString() {
             return "Volume: " + volumeLiters + "L, Hard Shell: " + hardShell + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 137;
+    }
     }
 

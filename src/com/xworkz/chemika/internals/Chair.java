@@ -16,5 +16,9 @@ public class Chair {
         public String toString() {
             return "Color: " + color + ", Wheels: " + hasWheels + ", Max Weight: " + maxWeight + " kg";
         }
+    @Override
+    public int hashCode() {
+        return 106;
+    }
     }
 

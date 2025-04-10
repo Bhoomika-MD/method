@@ -16,5 +16,9 @@ public class USBDrive {
         public String toString() {
             return "Capacity: " + capacityGB + "GB, Encrypted: " + encrypted + ", Brand: " + brand;
         }
+    @Override
+    public int hashCode() {
+        return 183;
+    }
     }
 

@@ -16,5 +16,9 @@ public class Monitor {
         public String toString() {
             return "Resolution: " + resolution + ", Size: " + size + "\", Is Curved: " + isCurved;
         }
+    @Override
+    public int hashCode() {
+        return 142;
+    }
     }
 

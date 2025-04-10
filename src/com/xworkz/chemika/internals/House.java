@@ -14,4 +14,8 @@ public class House {
     public String toString(){
         return "address :"+address+"rooms :"+rooms+"price :"+price;
     }
+    @Override
+    public int hashCode() {
+        return 133;
+    }
 }

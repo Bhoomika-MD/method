@@ -16,5 +16,9 @@ public class EReader {
         public String toString() {
             return "Model: " + model + ", Storage: " + storageGB + "GB, Waterproof: " + waterproof;
         }
+    @Override
+    public int hashCode() {
+        return 121;
+    }
     }
 

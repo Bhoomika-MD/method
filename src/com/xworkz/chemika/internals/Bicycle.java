@@ -14,4 +14,8 @@ public class Bicycle {
     public String toString(){
         return "brand :"+brand+"gearCount :"+gearCount+"weight :"+weight;
     }
+    @Override
+    public int hashCode() {
+        return 97;
+    }
 }

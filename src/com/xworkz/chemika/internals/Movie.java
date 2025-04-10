@@ -14,4 +14,8 @@ public class Movie {
     public String toString(){
         return "title :"+title+"genre :"+genre+"rating :"+rating;
     }
+    @Override
+    public int hashCode() {
+        return 144;
+    }
 }

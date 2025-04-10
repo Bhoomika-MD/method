@@ -12,6 +12,11 @@ public class Teacher {
     }
     @Override
     public String toString(){
+
         return "name :"+name+"subject :"+subject+"experience :"+experience;
+    }
+    @Override
+    public int hashCode() {
+        return 173;
     }
 }

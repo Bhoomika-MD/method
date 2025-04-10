@@ -16,5 +16,9 @@ public class Glasses {
         public String toString() {
             return "Frame: " + frameMaterial + ", Prescription: " + prescription + ", Lens: " + lensType;
         }
+    @Override
+    public int hashCode() {
+        return 129;
+    }
     }
 

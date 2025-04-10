@@ -14,4 +14,8 @@ public class Game {
     public String toString(){
         return "title :"+title+"platform :"+platform+"rating :"+rating;
     }
+    @Override
+    public int hashCode() {
+        return 127;
+    }
 }

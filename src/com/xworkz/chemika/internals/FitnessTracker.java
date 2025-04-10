@@ -16,5 +16,9 @@ public class FitnessTracker {
         public String toString() {
             return "Model: " + model + ", HR Monitor: " + heartRateMonitor + ", Battery Life: " + batteryLifeDays + " days";
         }
+    @Override
+    public int hashCode() {
+        return 124;
+    }
     }
 

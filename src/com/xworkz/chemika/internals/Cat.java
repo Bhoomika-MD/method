@@ -14,4 +14,8 @@ public class Cat {
     public String toString(){
         return "breed :"+breed+"color :"+color+"age :"+age;
     }
+    @Override
+    public int hashCode() {
+        return 105;
+    }
 }

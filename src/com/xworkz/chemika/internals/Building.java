@@ -14,4 +14,8 @@ public class Building {
     public String toString(){
         return "name :"+name+"floors :"+floors+"purpose :"+purpose;
     }
+    @Override
+    public int hashCode() {
+        return 100;
+    }
 }

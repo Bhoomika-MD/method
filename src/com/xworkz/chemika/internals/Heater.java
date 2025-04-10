@@ -14,7 +14,12 @@ public class Heater {
 
         @Override
         public String toString() {
+
             return "Power: " + powerWatts + "W, Type: " + type + ", Thermostat: " + thermostat;
         }
+    @Override
+    public int hashCode() {
+        return 131;
+    }
     }
 

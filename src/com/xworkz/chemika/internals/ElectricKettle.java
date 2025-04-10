@@ -16,5 +16,9 @@ public class ElectricKettle {
         public String toString() {
             return "Capacity: " + capacityLiters + "L, Cordless: " + cordless + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 118;
+    }
     }
 

@@ -15,5 +15,9 @@ public class SmartPhone {
         public String toString() {
             return "Model: " + model + ", Storage: " + storage + "GB, 5G Enabled: " + has5G;
         }
+    @Override
+    public int hashCode() {
+        return 165;
+    }
     }
 

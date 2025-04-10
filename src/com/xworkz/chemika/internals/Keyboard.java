@@ -14,4 +14,8 @@ public class Keyboard {
     public String toString(){
         return "type :"+type+"isWireless :"+isWireless+"layout :"+layout;
     }
+    @Override
+    public int hashCode() {
+        return 135;
+    }
 }

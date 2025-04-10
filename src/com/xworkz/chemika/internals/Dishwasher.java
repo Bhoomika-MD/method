@@ -16,5 +16,9 @@ public class Dishwasher {
         public String toString() {
             return "Place Settings: " + placeSettings + ", Eco Mode: " + ecoMode + ", Brand: " + brand;
         }
+    @Override
+    public int hashCode() {
+        return 114;
+    }
     }
 

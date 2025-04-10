@@ -14,4 +14,8 @@ public class Meal {
     public String toString(){
         return "name :"+name+"calories :"+calories+"isVegetarian :"+isVegetarian;
     }
+    @Override
+    public int hashCode() {
+        return 139;
+    }
 }

@@ -16,5 +16,9 @@ public class ElectricGrill {
         public String toString() {
             return "Power: " + powerWatts + "W, Non-Stick: " + nonStick + ", Brand: " + brand;
         }
+    @Override
+    public int hashCode() {
+        return 117;
+    }
     }
 

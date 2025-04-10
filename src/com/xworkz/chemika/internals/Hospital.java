@@ -14,4 +14,8 @@ public class Hospital {
     public String toString(){
         return "Distance :"+distance+"Name :"+name+"Present :"+present;
     }
+    @Override
+    public int hashCode() {
+        return 132;
+    }
 }

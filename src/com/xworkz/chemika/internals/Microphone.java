@@ -16,5 +16,9 @@ public class Microphone {
         public String toString() {
             return "Type: " + type + ", USB: " + isUSB + ", Sensitivity: " + sensitivity + " dB";
         }
+    @Override
+    public int hashCode() {
+        return 140;
+    }
     }
 

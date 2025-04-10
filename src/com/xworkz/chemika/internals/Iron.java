@@ -16,5 +16,9 @@ public class Iron {
         public String toString() {
             return "Wattage: " + wattage + "W, Steam: " + steamFunction + ", Soleplate: " + soleplateType;
         }
+    @Override
+    public int hashCode() {
+        return 134;
+    }
     }
 

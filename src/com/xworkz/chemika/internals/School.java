@@ -14,4 +14,8 @@ public class School {
     public String toString(){
         return "name :"+name+"studentCount :"+studentCount+"location :"+location;
     }
+    @Override
+    public int hashCode() {
+        return 162;
+    }
 }

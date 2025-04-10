@@ -14,6 +14,9 @@ public class Fan {
     public String toString(){
         return "type :"+type+"speedLevels :"+speedLevels+"hasRemote :"+hasRemote;
     }
-
+    @Override
+    public int hashCode() {
+        return 123;
+    }
 
 }

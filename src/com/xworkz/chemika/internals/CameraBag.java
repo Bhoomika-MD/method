@@ -16,5 +16,9 @@ public class CameraBag {
         public String toString() {
             return "Camera Capacity: " + capacityCameras + ", Waterproof: " + waterproof + ", Color: " + color;
         }
+    @Override
+    public int hashCode() {
+        return 103;
+    }
     }
 

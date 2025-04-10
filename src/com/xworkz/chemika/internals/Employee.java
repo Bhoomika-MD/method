@@ -14,4 +14,8 @@ public class Employee {
     public String toString(){
         return "Name :"+name+"Id :"+id+"Salary :"+salary;
     }
+    @Override
+    public int hashCode() {
+        return 120;
+    }
 }
