@@ -10,7 +10,7 @@ public class Bedsheet {
         this.size = size;
         this.isPrinted = isPrinted;
     }
-
+ 
     @Override
     public String toString() {
         return

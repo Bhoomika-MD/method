@@ -16,7 +16,7 @@ public class Rose {
         return
                 "color='" + color + '\'' +
                         ", petalCount=" + petalCount +
-                        ", hasFragrance=" + hasFragrance;
+                         ", hasFragrance=" + hasFragrance;
     }
 
     @Override

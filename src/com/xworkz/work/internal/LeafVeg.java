@@ -17,7 +17,7 @@ public class LeafVeg {
     public String toString() {
         return
                 "name='" + name + '\'' +
-                        ", color='" + color + '\'' +
+                         ", color='" + color + '\'' +
                         ", isSeasonal=" + isSeasonal;
     }
 
