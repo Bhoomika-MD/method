@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db3e9366-172d-46f8-853b-2b28db523411" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritances.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/AnimalKingdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Festival.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hierarchical/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/PowerDrill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/SmartTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/Tablet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/hybrid/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/CollegeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/MangoTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/Musics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/PDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/RobotToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/SoftwareEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/multi/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/build/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/build/Flat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/court/Judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/court/Lawyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/device/Android.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/device/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/flying/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/flying/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/fourwheeler/Tractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/fourwheeler/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/fruit/Mango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/human/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/human/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/learn/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/learn/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/machine/Appliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/machine/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/levels/single/zoo/Dog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2vlq8iAwUnzQ7tYwaYIyOZIsETu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3e9366-172d-46f8-853b-2b28db523411" name="Changes" comment="" />
+      <created>1744729851129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744729851129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
