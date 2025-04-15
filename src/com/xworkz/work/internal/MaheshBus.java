@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class MaheshBus {
+public class  MaheshBus {
     private String busNumber;
     private String route;
     private int seatingCapacity;

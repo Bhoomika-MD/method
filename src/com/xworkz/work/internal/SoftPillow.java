@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class SoftPillow {
+public class  SoftPillow {
     private String material;
     private String size;
     private boolean isWashable;

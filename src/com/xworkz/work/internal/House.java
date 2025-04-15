@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class House {
+public class  House {
     private String address;
     private int numRooms;
     private boolean hasGarden;

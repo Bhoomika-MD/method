@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Shark {
+public class  Shark {
     private String species;
     private double length;
     private boolean isDangerous;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Crompton {
+public class  Crompton {
     private String productType;
     private int powerRating;
     private boolean isEnergyEfficient;

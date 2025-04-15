@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Phone {
+public class  Phone {
     private String brand;
     private String prize;
     private int ram;

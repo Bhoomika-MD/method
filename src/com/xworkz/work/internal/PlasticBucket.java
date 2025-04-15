@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class PlasticBucket {
+public class  PlasticBucket {
     private String color;
     private int capacity;
     private boolean hasHandle;

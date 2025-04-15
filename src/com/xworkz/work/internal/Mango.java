@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Mango {
+public class  Mango {
     private String variety;
     private int weight;
     private boolean isRipe;

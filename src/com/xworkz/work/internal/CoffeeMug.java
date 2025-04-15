@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class CoffeeMug {
+public class  CoffeeMug {
     private String color;
     private int capacity;
     private boolean isMicrowaveSafe;

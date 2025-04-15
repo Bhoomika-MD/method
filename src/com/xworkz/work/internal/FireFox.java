@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class FireFox {
+public class  FireFox {
     private String version;
     private boolean isPrivateMode;
     private int installedExtensions;

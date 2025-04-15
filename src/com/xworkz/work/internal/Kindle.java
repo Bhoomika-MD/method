@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Kindle {
+public class  Kindle {
     private String model;
     private int storageCapacity;
     private boolean isBacklit;

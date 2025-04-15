@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class MicrowaveOven {
+public class  MicrowaveOven {
     private String brand;
     private int capacity;
     private boolean hasGrillFunction;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Diamond {
+public class  Diamond {
     private double carat;
     private String colorGrade;
     private boolean isCertified;

@@ -22,7 +22,7 @@ public class Runner {
         Wizard wizard = new Wizard("saji",50,"magic");
         Wizard wizard1 = new Wizard("ravi",50,"magic");
 
- 
+
 
         System.out.println("Wizard"+wizard.toString());
         System.out.println(wizard.hashCode());

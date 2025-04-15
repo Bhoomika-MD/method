@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Chef {
+public class  Chef {
     private String name;
     private String specialty;
     private int experienceYears;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Necklace {
+public class  Necklace {
     private String material;
     private double length;
     private boolean hasPendant;

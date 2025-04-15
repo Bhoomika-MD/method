@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Smartphone {
+public class  Smartphone {
     private String brand;
     private int storage;
     private boolean has5G;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class IPL {
+public class  IPL {
     private String teamName;
     private String captain;
     private int totalWins;

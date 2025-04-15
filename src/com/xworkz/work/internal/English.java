@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class English {
+public class  English {
     private String level;
     private String accent;
     private boolean isFluent;

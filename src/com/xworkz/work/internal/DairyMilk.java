@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class DairyMilk {
+public class  DairyMilk {
     private String flavor;
     private int weight;
     private boolean hasNuts;

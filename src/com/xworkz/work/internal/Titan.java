@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Titan {
+public class  Titan {
     private String modelName;
     private double price;
     private boolean isAnalog;

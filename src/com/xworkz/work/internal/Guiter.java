@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Guiter {
+public class  Guiter {
     private String brand;
     private int numberOfStrings;
     private boolean isElectric;

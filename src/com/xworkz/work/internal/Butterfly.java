@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Butterfly {
+public class  Butterfly {
     private String species;
     private String wingColor;
     private double wingspan;

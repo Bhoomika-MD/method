@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class School {
+public class  School {
     private String name;
     private String location;
     private int numStudents;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Antibiotic {
+public class  Antibiotic {
     private String name;
     private int dosageMg;
     private boolean isPrescriptionRequired;

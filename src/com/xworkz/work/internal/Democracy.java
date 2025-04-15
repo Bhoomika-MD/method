@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Democracy {
+public class  Democracy {
     private String countryName;
     private int electionYear;
     private boolean hasCivilLiberties;

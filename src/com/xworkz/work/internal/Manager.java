@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Manager {
+public class  Manager {
     private String name;
     private String department;
     private int experienceYears;

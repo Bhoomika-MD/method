@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Kent {
+public class  Kent {
     private String modelName;
     private int capacity;
     private boolean hasROTechnology;

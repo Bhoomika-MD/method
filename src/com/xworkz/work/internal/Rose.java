@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Rose {
+public class  Rose {
     private String color;
     private int petalCount;
     private boolean hasFragrance;

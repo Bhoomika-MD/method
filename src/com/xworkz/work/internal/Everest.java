@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Everest {
+public class  Everest {
     private double height;
     private String country;
     private boolean isClimbed;

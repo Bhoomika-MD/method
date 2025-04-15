@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class WashingMachine {
+public class  WashingMachine {
     private String brand;
     private int loadCapacity;
     private boolean isFrontLoad;

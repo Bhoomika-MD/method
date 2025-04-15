@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Oil {
+public class  Oil {
     private String type;
     private int quantity;
     private boolean isEdible;

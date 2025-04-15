@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Shirt {
+public class  Shirt {
     private String size;
     private String color;
     private boolean isFullSleeve;

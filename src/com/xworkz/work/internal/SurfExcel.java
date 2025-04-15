@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class SurfExcel {
+public class  SurfExcel {
     private String type;
     private int weight;
     private boolean isForMachineWash;

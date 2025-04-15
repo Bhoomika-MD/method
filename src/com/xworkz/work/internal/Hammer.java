@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Hammer {
+public class  Hammer {
     private String material;
     private double weight;
     private boolean isClawType;

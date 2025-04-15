@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class SolarPanel {
+public class  SolarPanel {
     private int wattage;
     private String manufacturer;
     private boolean isMonocrystalline;

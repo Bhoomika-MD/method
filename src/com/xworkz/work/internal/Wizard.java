@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Wizard {
+public class  Wizard {
     private String name;         // Wizard's name
     private int mana;            // Magic energy or power level
     private String spellType;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Lion {
+public class  Lion {
     private String name;
     private int age;
     private boolean isWild;

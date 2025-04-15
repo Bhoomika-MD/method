@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class HardDisk {
+public class  HardDisk {
     private String capacity;
     private String type;
     private boolean isExternal;

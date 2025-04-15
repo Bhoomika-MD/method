@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class JBL {
+public class  JBL {
     private String model;
     private int batteryLife;
     private boolean isWaterproof;

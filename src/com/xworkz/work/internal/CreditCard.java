@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class CreditCard {
+public class  CreditCard {
     private String cardNumber;
     private String cardHolderName;
     private double creditLimit;

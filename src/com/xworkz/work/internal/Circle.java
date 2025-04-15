@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Circle {
+public class  Circle {
     private String color;
     private int diameter;
     private boolean isFilled;

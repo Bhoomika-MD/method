@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class GeneralHospital {
+public class  GeneralHospital {
     private String patentName;
     private String disease;
     private int age;

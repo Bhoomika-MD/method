@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Coffee {
+public class  Coffee {
     private String type;
     private String size;
     private boolean hasSugar;

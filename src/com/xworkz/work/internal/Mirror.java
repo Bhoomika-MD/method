@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Mirror {
+public class  Mirror {
     private String shape;
     private int height;
     private boolean isWallMounted;

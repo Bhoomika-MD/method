@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class WoodenDoor {
+public class  WoodenDoor {
     private int height;
     private int width;
     private String woodType;

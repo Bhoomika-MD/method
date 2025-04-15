@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Refrigerator {
+public class  Refrigerator {
     private String brand;
     private int capacity;
     private boolean hasFreezer;

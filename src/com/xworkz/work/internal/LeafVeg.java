@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class LeafVeg {
+public class  LeafVeg {
     private String name;
     private String color;
     private boolean isSeasonal;

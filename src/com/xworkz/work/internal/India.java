@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class India {
+public class  India {
     private String capital;
     private long population;
     private String officialLanguage;

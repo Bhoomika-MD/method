@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class CleanicPlus {
+public class  CleanicPlus {
     private String productType;
     private int volume;
     private boolean isAlcoholBased;

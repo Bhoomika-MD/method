@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class OakTree {
+public class  OakTree {
     private int age;
     private double height; // in meters
     private boolean hasAcorns;

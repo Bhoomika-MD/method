@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class LG {
+public class  LG {
     private String productType;
     private String modelNumber;
     private int warrantyYears;

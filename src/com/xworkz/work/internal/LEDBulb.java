@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class LEDBulb {
+public class  LEDBulb {
     private int wattage;
     private int colorTemperature;
     private boolean isDimmable;

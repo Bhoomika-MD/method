@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Maggi {
+public class  Maggi {
     private String flavor;
     private int cookingTime;
     private boolean isSpicy;

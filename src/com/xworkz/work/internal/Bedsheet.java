@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Bedsheet {
+public class  Bedsheet {
     private String material;
     private String size;
     private boolean isPrinted;

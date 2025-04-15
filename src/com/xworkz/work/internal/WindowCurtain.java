@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class WindowCurtain {
+public class  WindowCurtain {
     private String fabricType;
     private int length;
     private boolean isBlackout;

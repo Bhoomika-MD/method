@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class DigitalClock {
+public class  DigitalClock {
     private String brand;
     private String timeFormat;
     private boolean hasAlarm;

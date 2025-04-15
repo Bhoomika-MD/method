@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class  Laptop {
+public class   Laptop {
     private String brand;
     private int ramSize;
     private boolean hasTouchscreen;

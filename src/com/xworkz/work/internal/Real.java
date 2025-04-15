@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Real {
+public class  Real {
     private String flavor;
     private int volume;
     private boolean hasAddedSugar;

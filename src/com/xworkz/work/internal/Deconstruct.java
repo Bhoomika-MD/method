@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Deconstruct {
+public class  Deconstruct {
     private String structureName;
     private String toolsUsed;
     private boolean isRecyclable;

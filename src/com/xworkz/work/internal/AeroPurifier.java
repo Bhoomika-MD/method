@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class AeroPurifier {
+public class  AeroPurifier {
     private String version;
     private int coverageArea;
     private boolean ozoneSafe;

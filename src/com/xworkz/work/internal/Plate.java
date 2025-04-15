@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Plate {
+public class  Plate {
     private String material;
     private int diameter;
     private boolean isMicrowaveSafe;

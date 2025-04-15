@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Rin {
+public class  Rin {
     private String productType;
     private int weight;
     private boolean isForWhites;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class DigitalCurrency {
+public class  DigitalCurrency {
     private String name;
     private double valueInUSD;
     private boolean isDecentralized;

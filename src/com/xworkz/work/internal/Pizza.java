@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Pizza {
+public class  Pizza {
     private String size;
     private String topping;
     private boolean isVegetarian;

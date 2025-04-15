@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Sword {
+public class  Sword {
     private String material;
     private int length;
     private boolean isSharp;

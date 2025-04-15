@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Boat {
+public class  Boat {
     private String model;
     private int batteryLife;
     private boolean isWireless;

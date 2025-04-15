@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class AloeVeraGel {
+public class  AloeVeraGel {
     private String brand;
     private int volume;
     private boolean isFragranceFree;

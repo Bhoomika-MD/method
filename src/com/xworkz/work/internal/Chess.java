@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Chess {
+public class  Chess {
     private int numberOfPlayers;
     private String boardSize;
     private boolean isTimerUsed;

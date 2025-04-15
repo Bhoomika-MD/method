@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Parrot {
+public class  Parrot {
     private String name;
     private String color;
     private boolean canTalk;

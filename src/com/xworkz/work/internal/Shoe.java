@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Shoe {
+public class  Shoe {
     private String brand;
     private int size;
     private boolean isSportsType;

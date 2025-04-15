@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class CottonTowel {
+public class  CottonTowel {
     private String color;
     private String size;
     private int absorbencyLevel;

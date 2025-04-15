@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Router {
+public class  Router {
     private String brand;
     private int speedMbps;
     private boolean isDualBand;

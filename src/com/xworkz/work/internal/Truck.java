@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Truck {
+public class  Truck {
     private String name;
     private int wheel;
     private int speedLimit;

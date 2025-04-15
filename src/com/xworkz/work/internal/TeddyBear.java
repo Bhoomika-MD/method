@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class TeddyBear {
+public class  TeddyBear {
     private String name;
     private String color;
     private String size;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Comfort {
+public class  Comfort {
     private String level;
     private double temperature;
     private boolean isPeacefulEnvironment;

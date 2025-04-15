@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class WirelessMouse {
+public class  WirelessMouse {
     private String brand;
     private int batteryLife;
     private int dpi;

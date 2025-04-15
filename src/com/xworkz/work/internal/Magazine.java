@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Magazine {
+public class  Magazine {
     private String title;
     private int issueNumber;
     private boolean isMonthly;

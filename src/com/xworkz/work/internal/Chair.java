@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Chair {
+public class  Chair {
     private String material;
     private String color;
     private boolean hasArmrest;

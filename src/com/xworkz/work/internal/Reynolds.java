@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Reynolds {
+public class  Reynolds {
     private String penType;
     private String inkColor;
     private boolean isRefillable;

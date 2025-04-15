@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Snake {
+public class  Snake {
     private String species;
     private double length;
     private boolean isVenomous;

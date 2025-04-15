@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Dettol {
+public class  Dettol {
     private String type;
     private int volume;
     private boolean isAntibacterial;

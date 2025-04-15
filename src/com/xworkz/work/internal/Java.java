@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Java {
+public class  Java {
     private String version;
     private String developer;
     private boolean isObjectOriented;

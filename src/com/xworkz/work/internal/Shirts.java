@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Shirts {
+public class  Shirts {
     private String brand;
     private int size;
     private String color;

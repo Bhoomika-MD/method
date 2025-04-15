@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Bottel {
+public class  Bottel {
     private String material;
     private int capacity;
     private boolean isInsulated;

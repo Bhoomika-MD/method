@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class GRB {
+public class  GRB {
     private double duration;
     private double intensity;
     private String originGalaxy;

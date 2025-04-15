@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Earphone {
+public class  Earphone {
     private String brand;
     private boolean isWireless;
     private int batteryLife;

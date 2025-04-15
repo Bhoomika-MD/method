@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class PaintBrush {
+public class  PaintBrush {
     private String brand;
     private int brushSize;
     private boolean isSynthetic;

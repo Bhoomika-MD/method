@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Earth {
+public class  Earth {
     private double radius;
     private boolean hasLife;
     private int continentCount;

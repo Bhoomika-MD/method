@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class OperatingSystem {
+public class  OperatingSystem {
     private String name;
     private String version;
     private boolean isOpenSource;

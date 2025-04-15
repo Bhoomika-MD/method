@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Classmate {
+public class  Classmate {
     private String productType;
     private double price;
     private boolean isEcoFriendly;

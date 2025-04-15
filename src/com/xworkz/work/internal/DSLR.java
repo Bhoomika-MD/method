@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class DSLR {
+public class  DSLR {
     private String brand;
     private int megapixels;
     private boolean hasWiFi;

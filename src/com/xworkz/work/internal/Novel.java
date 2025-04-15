@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Novel {
+public class  Novel {
     private String title;
     private String author;
     private int numPages;

@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Deepavali {
+public class  Deepavali {
     private String date;
     private boolean isPublicHoliday;
     private int numberOfLamps;

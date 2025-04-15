@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class SchoolBag {
+public class  SchoolBag {
     private String brand;
     private String color;
     private int numberOfCompartments;

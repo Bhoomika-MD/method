@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Pears {
+public class  Pears {
     private String variety;
     private int weight;
     private boolean isOrganic;

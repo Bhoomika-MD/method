@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Teacher {
+public class  Teacher {
     private String name;
     private String subject;
     private int yearsOfExperience;

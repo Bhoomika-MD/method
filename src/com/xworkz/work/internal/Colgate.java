@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Colgate {
+public class  Colgate {
     private String variant;
     private int netWeight;
     private boolean isWhitening;

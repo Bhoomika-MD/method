@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class HairComb {
+public class  HairComb {
     private String material;
     private int toothCount;
     private boolean isFoldable;

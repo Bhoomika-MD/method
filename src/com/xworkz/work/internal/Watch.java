@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class Watch {
+public class  Watch {
     private String brand;
     private boolean isDigital;
     private boolean waterResistant;

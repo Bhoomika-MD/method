@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class FootBall {
+public class  FootBall {
     private String brand;
     private int size;
     private boolean isOfficial;

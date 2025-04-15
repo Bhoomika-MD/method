@@ -1,6 +1,6 @@
 package com.xworkz.work.internal;
 
-public class CruiseShip {
+public class  CruiseShip {
     private String shipName;
     private int capacity;
     private boolean hasSwimmingPool;
